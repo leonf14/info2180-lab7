@@ -1,0 +1,27 @@
+
+		body{
+			background-color:black;
+		}
+			
+		h1{
+			color:red;
+			font-family: "courier", monospace, sans-serif;
+			text-align: center;
+		}
+		
+		form{
+			padding-left:150px;
+		}
+		div{
+			background-color:green;
+			margin:auto;
+			border:1px purple;
+			width:40%;
+			padding-bottom:50px;
+		}
+		
+		#result{
+				border:1px purple;
+				background-color: orange;
+		}
+
